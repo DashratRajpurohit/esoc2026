@@ -83,10 +83,7 @@ Currently affiliated projects:
 * [`pytorch-tabular`](https://github.com/pytorch-tabular/pytorch_tabular)
 * [`rattler`](https://github.com/conda/rattler)
 * [`scikit-base`](https://github.com/sktime/skbase)
-* [`scikit-learn`](https://github.com/scikit-learn/scikit-learn)
-* [`skore`](https://github.com/probabl-ai/skore)
 * [`skpro`](https://github.com/sktime/skpro)
-* [`skrub`](https://github.com/skrub-data/skrub)
 * [`sktime`](https://github.com/sktime/sktime)
 
 ##### Incubating
