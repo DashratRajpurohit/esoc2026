@@ -258,9 +258,8 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 # 2026 Project list
 
-* First batch of projects below.
-* Second batch of projects announced April 1
-
+* Batch 1 and 2 of projects below.
+* Further projects may follow in 2026 on a rolling basis.
 
 ## Applied projects
 
