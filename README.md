@@ -83,6 +83,7 @@ Currently affiliated projects:
 * [`pykalman`](https://github.com/pykalman/pykalman)
 * [`pytorch-forecasting`](https://github.com/sktime/pytorch-forecasting)
 * [`pytorch-tabular`](https://github.com/pytorch-tabular/pytorch_tabular)
+* [`pyaptamer`](https://github.com/gc-os-ai/pyaptamer)
 * [`rattler`](https://github.com/conda/rattler)
 * [`scikit-base`](https://github.com/sktime/skbase)
 * [`shap`](https://github.com/shap/shap)
@@ -302,7 +303,7 @@ Join ecoSPECS and the German Center for Open Source AI to get the `pyaptamer` pa
 
 `pyaptamer` is in-silico aptamer generation package for diagnostics and medical applications. It currently interfaces multiple algorithms such as AptaNet, AptaTrans and MAWS. On the 2026 roadmap we want to add (or develop) state-of-art algorithms, robustify the API, and increase interoperability.
 
-**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/gcos-esoc2026-batches.md). Also make at least one substantial pull request to `pyaptamer`.
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/gcos-esoc2026-batches.md). Also make at least one substantial pull request to `pyaptamer`. For more details contributors should take a look [here](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/pyaptamer.md)
 
 * Deadline: April 30, 18:00 UTC
 * Hub: German Center for Open Source AI
